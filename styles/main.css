@@ -3290,7 +3290,11 @@ body {
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
 }
-
+h4 {
+    color: #ff2727;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
 .main {
     position: relative;
     background: #FFFFFF;
@@ -4980,7 +4984,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .card .card-body {
-    min-height: 190px;
+    min-height: 75px;
 }
 
 .card[data-background-color="orange"] {
